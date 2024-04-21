@@ -89,6 +89,7 @@ section.imagem {
 
 .imagem pre {
     background-color: #0000006c;
+    text-shadow: 1px 1px 1px #000000c7;
     color: white;
     margin: 3vw 2.5vw;
     padding: 10px;
